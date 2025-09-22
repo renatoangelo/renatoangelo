@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://renatoangelo.com.br" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,postgresql,php,javascript,css3,html5,mysql,cicd" />
+    <img src="https://skillicons.dev/icons?i=java,eclipse,git,kubernetes,docker,postgresql,php,javascript,angular,bootstrap,css" />
   </a>
 </p>
 
 
 
           
-<!--
+
 **renatoangelo/renatoangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="100" />
 <hr />
@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
