@@ -2,14 +2,14 @@
 
           
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="100" />
-<hr />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line.svg" width="100" style="color=green" />
+
 
           
 <!--
 **renatoangelo/renatoangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="100" />
+<hr />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line.svg" width="100" style="color=green" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
