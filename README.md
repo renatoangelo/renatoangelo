@@ -2,9 +2,22 @@
 
 <p align="center">
   <a href="https://renatoangelo.com.br" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,eclipse,git,kubernetes,docker,postgresql,php,javascript,angular,bootstrap,css" />
+    <img src="https://skillicons.dev/icons?i=
+      java,
+      intelij,
+      eclipse,
+      git,
+      kubernetes,
+      docker,
+      postgresql,
+      php,
+      javascript,
+      angular,
+      bootstrap,
+      css" />
   </a>
 </p>
+
 
 
 
