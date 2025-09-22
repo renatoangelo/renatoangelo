@@ -6,22 +6,24 @@
   </a>
 </p>
 
+<!--**renatoangelo/renatoangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+## 👋 About Me
 
+Hi there! I'm Renato Angelo — a Brazilian software engineer passionate about solving real problems through clean, scalable and meaningful code. I’m currently focused on building smart back-end systems, learning advanced Java, and diving deep into databases, Docker and system architecture.
 
-          
+---
 
-**renatoangelo/renatoangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="100" />
-<hr />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line.svg" width="100" style="color=green" />
-Here are some ideas to get you started:
+- 🔭 I’m currently working on personal systems for the health industry, agency automation and digital branding
+- 🌱 I’m currently learning **Java**, **Spring Boot**, **microservices**, **Docker**, and **system design**
+- 💬 Ask me about: PHP (OOP/MVC), Laravel, SQL, MySQL, Git, Branding for devs, Marketing Funnels
+- 👨‍💻 I love building custom tools for real businesses — from health clinics to creative agencies
+- 📫 How to reach me: [renatoangelo.dev@gmail.com](mailto:renatoangelo.dev@gmail.com)
+- 🌍 Languages: Portuguese (native), English (advanced, improving every day!)
+- ⚡ Fun fact: I’ve built systems that are in production for 10+ years — and still running smoothly.
+- 🧠 Favorite quote: *"Simple is better than complex."* — The Zen of Python (but applies to life too!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+🚀 Always learning. Always building. Always sharing.  
+Let’s connect!
