@@ -11,6 +11,7 @@
 ## 👋 About Me
 
 Hi there! I'm Renato Angelo — a Brazilian software engineer passionate about solving real problems through clean, scalable, and meaningful code. 
+
 I’m currently focused on building smart systems — Back-End, Full-Stack, and Front-End — while deepening my skills in advanced Java (and never planning to stop), and diving deep into databases, Docker, and system architecture.
 
 ---
