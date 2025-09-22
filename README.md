@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://renatoangelo.com.br" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,postgre" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,postgresql" />
   </a>
 </p>
 
